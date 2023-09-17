@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @haliddemir
+- 👀 I’m interested in FrontEnd
+- 🌱 I’m currently learning NextJS
+- 💞️ I’m looking to collaborate on any project
